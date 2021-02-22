@@ -31,4 +31,4 @@ START_MSG = """
 Here you can search wallpapers in inline mode. to use me you should join our group @n_a_c_bot_developers Just press following buttons and start searching.
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'Checkout {username} for download high quality wallpapers'
